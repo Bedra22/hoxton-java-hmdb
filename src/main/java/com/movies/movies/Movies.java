@@ -4,9 +4,6 @@ import java.util.ArrayList;
 
 public class Movies {
 
-    public Movies(int i, String string, String string2, int j, int k) {
-    }
-
     public static ArrayList<Movies> movies = new ArrayList<>();
 
     public Integer id;

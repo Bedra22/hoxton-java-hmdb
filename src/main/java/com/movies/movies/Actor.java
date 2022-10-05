@@ -7,9 +7,6 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class Actor {
 
-    public Actor(int i, String string, String string2, int j) {
-    }
-
     public static ArrayList<Actor> actors = new ArrayList<>();
 
     public Integer id;
